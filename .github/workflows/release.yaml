@@ -10,4 +10,4 @@ jobs:
       pull-requests: write # to be able to comment on released pull requests
     uses: stone-home/Action-Stone-DevOps/.github/workflows/release.yaml@trunk
     secrets:
-      onepass_token: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
+      onepass_token: ${{ secrets.ORG_OP_ACCOUNT_TOKEN }}

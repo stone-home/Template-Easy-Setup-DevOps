@@ -12,4 +12,4 @@ jobs:
     with:
       python: true
     secrets:
-      onepass_token: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
+      onepass_token: ${{ secrets.ORG_OP_ACCOUNT_TOKEN }}
