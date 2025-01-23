@@ -1,6 +1,6 @@
 branches:
   - trunk
-repositoryUrl: "https://github.com/stone-home/Python-URes.git"
+repositoryUrl: "https://github.com/stone-home/Template-Easy-Setup-DevOps"
 plugins:
   - "@semantic-release/commit-analyzer"
   - "@semantic-release/release-notes-generator"
